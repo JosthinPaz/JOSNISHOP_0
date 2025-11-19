@@ -1,0 +1,1 @@
+UPDATE productos SET vendedor_id = 1;
